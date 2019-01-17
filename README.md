@@ -1,5 +1,5 @@
 # hello-world
-learn with GitHub Guides.
+I will learn with GitHub Guides.
 
 Hi guy!
 
